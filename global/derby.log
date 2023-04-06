@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 14 16:23:59 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-8d00-46d3-00001ca79120 
+on database directory C:\Users\cbuschbeck\openLCA-data-1.4\databases\ecoinvent_Holzhybrid with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Program%20Files/openLCA/openLCA/plugins/olca-app_1.10.2/libs/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Schaffeschaffe\Holzhybrid\skripte\global
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
